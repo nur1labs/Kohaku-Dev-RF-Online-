@@ -18,3 +18,6 @@ A:no this support 2.2.3.2
 Q:can't open rar!
 
 A:used 64bit rar or newer rar version
+
+Q:bug report?
+A:mail to support. thank you
